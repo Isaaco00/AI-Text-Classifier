@@ -1,0 +1,48 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# Machine learning artifacts
+
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
+# Local data and temporary files
+
+*.log
+.DS_Store
+Thumbs.db
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# IDE
+
+.vscode/
+.idea/
+
+# Testing and coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+
+.ipynb_checkpoints/
