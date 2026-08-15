@@ -1,16 +1,20 @@
+import sys
+from pathlib import Path
+
 import streamlit as st
 import pandas as pd
 
+
+# Add the project root to Python's import path.
+# This ensures the src package can be imported locally and on Streamlit Cloud.
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+
 from src.classifier import classify_text, load_metrics
 from src.decision import get_decision
-
-
-# Configure the Streamlit application.
-st.set_page_config(
-    page_title="AI Support Ticket Classifier",
-    page_icon="🎯",
-    layout="wide"
-)
 
 
 # Store prediction history only for the current browser session.
