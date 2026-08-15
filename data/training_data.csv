@@ -1,0 +1,237 @@
+text,category
+My package has not arrived yet.,shipping
+Where can I track my order?,shipping
+My shipment is stuck in transit.,shipping
+The courier says delivered but I do not have it.,shipping
+My delivery is late.,shipping
+When will my package arrive?,shipping
+My order has not been delivered.,shipping
+The tracking information has not updated.,shipping
+Can you tell me where my package is?,shipping
+My parcel was supposed to arrive yesterday.,shipping
+The delivery date has passed.,shipping
+My package is missing.,shipping
+Why is my shipment delayed?,shipping
+The courier has not delivered my order.,shipping
+My order is still in transit.,shipping
+I have not received my delivery.,shipping
+Can I get an update on my shipment?,shipping
+The tracking number is not showing any updates.,shipping
+My package was marked delivered but it is missing.,shipping
+How long will shipping take?,shipping
+Where is my parcel?,shipping
+My order is taking too long to arrive.,shipping
+The package has been delayed again.,shipping
+I am still waiting for my delivery.,shipping
+My shipment has not moved for days.,shipping
+The tracking status has not changed.,shipping
+My parcel has been in transit for too long.,shipping
+Why has my delivery not arrived?,shipping
+Can you check the status of my package?,shipping
+My order was supposed to arrive today.,shipping
+The courier has not shown up.,shipping
+I cannot find my delivery.,shipping
+My package appears to be lost.,shipping
+The delivery is overdue.,shipping
+I need an update about my order delivery.,shipping
+My shipment is delayed.,shipping
+The tracking page says my package is still in transit.,shipping
+My package has been stuck since last week.,shipping
+I am waiting for a package that should have arrived.,shipping
+Can you tell me when my order will be delivered?,shipping
+The courier has not delivered my parcel.,shipping
+My delivery status has not changed.,shipping
+My order has been shipped but has not arrived.,shipping
+I have been waiting for my package all week.,shipping
+The tracking number is not working.,shipping
+Why is my package taking so long?,shipping
+My parcel never arrived.,shipping
+The delivery was marked complete but I received nothing.,shipping
+I need help tracking my shipment.,shipping
+Where is my order right now?,shipping
+My delivery is overdue.,shipping
+The package has disappeared during shipping.,shipping
+My shipment has not updated since yesterday.,shipping
+I expected my package already.,shipping
+Can someone check my delivery status?,shipping
+My order is still waiting to be delivered.,shipping
+"The courier says my package was delivered, but it was not.",shipping
+My parcel has been delayed for several days.,shipping
+How can I find my missing package?,shipping
+I forgot my password.,account
+I cannot log into my account.,account
+My account has been locked.,account
+How do I change my email address?,account
+I cannot access my account.,account
+How can I reset my password?,account
+I need to update my account details.,account
+Why is my account locked?,account
+I forgot my login details.,account
+I am unable to sign in.,account
+How do I change my account information?,account
+My password reset is not working.,account
+I cannot access my profile.,account
+How do I update my phone number?,account
+My login is not working.,account
+I need help recovering my account.,account
+How can I change my password?,account
+My account access has been blocked.,account
+I cannot remember my password.,account
+I need to update my personal information.,account
+I am locked out of my account.,account
+My login credentials are not working.,account
+How do I recover my account?,account
+I need to reset my login.,account
+I cannot sign into my profile.,account
+My password is not being accepted.,account
+How can I unlock my account?,account
+I want to change my account email.,account
+I need to update my profile.,account
+My account is inaccessible.,account
+I forgot the password I use to log in.,account
+How do I change my phone number?,account
+I cannot remember my login information.,account
+My account was locked after several attempts.,account
+I need help changing my password.,account
+I cannot get into my account.,account
+How can I update my personal details?,account
+My sign-in is failing.,account
+I need to recover my login.,account
+Why can I not access my profile?,account
+I want to update my email.,account
+My password reset link is not working.,account
+How do I unlock my profile?,account
+I lost access to my account.,account
+My account login keeps failing.,account
+Can I change the email associated with my account?,account
+I need to recover my password.,account
+My account is currently locked.,account
+I cannot sign in with my password.,account
+How do I edit my account information?,account
+I need help getting back into my account.,account
+My login details are no longer working.,account
+How do I reset my account password?,account
+I cannot access my profile anymore.,account
+My account credentials are not working.,account
+I need to change my personal details.,account
+I forgot how to log in.,account
+The system will not let me sign in.,account
+Can you help me recover my account?I am having trouble accessing my account.,account
+The application keeps crashing.,technical
+The website will not load.,technical
+I keep getting an error.,technical
+The dashboard is frozen.,technical
+The app stopped working.,technical
+The website keeps showing an error.,technical
+A feature is not working correctly.,technical
+The application crashes when I open it.,technical
+The page is stuck loading.,technical
+I cannot use the search feature.,technical
+The system is responding very slowly.,technical
+The app keeps freezing.,technical
+The website is broken.,technical
+I am seeing an unexpected error.,technical
+The dashboard is not loading.,technical
+The application stopped responding.,technical
+A button on the website does not work.,technical
+The system keeps timing out.,technical
+The app is not functioning properly.,technical
+I cannot use the platform because it keeps crashing.,technical
+The website keeps crashing.,technical
+The app will not open.,technical
+I cannot load the dashboard.,technical
+The page keeps freezing.,technical
+The system keeps displaying errors.,technical
+The application is extremely slow.,technical
+The website is stuck on the loading screen.,technical
+A feature suddenly stopped working.,technical
+The app crashes every time I open it.,technical
+The website is not responding.,technical
+The system keeps timing out.,technical
+The dashboard stopped working.,technical
+I cannot get the application to start.,technical
+The page is completely frozen.,technical
+The website gives me an error message.,technical
+The application is not responding.,technical
+I am having technical problems with the platform.,technical
+The search function is broken.,technical
+The website keeps going down.,technical
+The app freezes when I try to use it.,technical
+The dashboard will not open.,technical
+I cannot access a feature on the website.,technical
+The application keeps giving me errors.,technical
+The website takes forever to load.,technical
+Something is wrong with the application.,technical
+The system is not working properly.,technical
+The page keeps crashing.,technical
+I cannot use the dashboard.,technical
+The app stopped responding.,technical
+The website is malfunctioning.,technical
+I keep seeing an error when using the platform.,technical
+The application will not respond.,technical
+The system has become very slow.,technical
+The website does not work on my device.,technical
+The app is stuck.,technical
+The dashboard keeps freezing.,technical
+The platform is showing an unexpected error.,technical
+A page will not load correctly.,technical
+The application crashes whenever I use it.,technical
+I need help with my order.,general_support
+Can someone help me with this issue?,general_support
+I have a question about my service.,general_support
+I need assistance with my request.,general_support
+Can you explain how this works?,general_support
+I would like to make a request.,general_support
+I need help resolving an issue.,general_support
+Can someone from support assist me?,general_support
+I have a question for customer service.,general_support
+I would like more information.,general_support
+I am unhappy with the service I received.,general_support
+I have contacted support but still need help.,general_support
+Can you help me with this problem?,general_support
+I need someone to look into this.,general_support
+I would like to speak with support.,general_support
+I have a problem that needs to be resolved.,general_support
+Please help me resolve this issue.,general_support
+I am not satisfied with the service.,general_support
+I need assistance from customer support.,general_support
+Can you help me understand what I should do?,general_support
+I need some assistance.,general_support
+Can someone help me?,general_support
+I have an issue and need support.,general_support
+I need to contact customer service.,general_support
+Can you help me with my request?,general_support
+I have a general question.,general_support
+I need help understanding something.,general_support
+Please assist me with this problem.,general_support
+I would like to contact support.,general_support
+Can someone look into this for me?,general_support
+I need customer service assistance.,general_support
+I have a problem with my service.,general_support
+Can you help me figure this out?,general_support
+I need someone from support to help me.,general_support
+I would like some assistance with this.,general_support
+I need help with a problem.,general_support
+Can you tell me what I should do?,general_support
+I have an issue I need help with.,general_support
+Please have someone assist me.,general_support
+I need more information about my request.,general_support
+Can customer support help me?,general_support
+I would like to ask a question.,general_support
+I need assistance from someone on your team.,general_support
+Can someone explain this to me?,general_support
+I am having an issue and need help.,general_support
+I need support with this situation.,general_support
+Please help me with my request.,general_support
+I want to speak to customer service.,general_support
+Can you look into my issue?,general_support
+I need help resolving this.,general_support
+I have a concern I would like addressed.,general_support
+Can someone from your team assist me?,general_support
+I need clarification about something.,general_support
+I am not sure what to do next.,general_support
+Could someone help me with this?,general_support
+I need assistance from support.,general_support
+I have a problem that I need help solving.,general_support
+Please tell me how I can get help.,general_support
+I would like someone to review my issue.,general_support
